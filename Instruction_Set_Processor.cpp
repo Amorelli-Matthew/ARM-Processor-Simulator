@@ -1,8 +1,3 @@
-//Matthew Amorelli
-//April 27, 2025
-//Project 3
-
-
 #include <iostream>
 #include <vector>
 #include <string>
